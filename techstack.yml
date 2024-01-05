@@ -2,7 +2,7 @@ repo_name: young1ll/practice-localsearch
 report_id: 1b02ac820180b8bfcd76cc7a7e30b08c
 version: 0.1
 repo_type: Public
-timestamp: '2023-12-28T13:44:09+00:00'
+timestamp: '2024-01-05T08:14:30+00:00'
 requested_by: young1ll
 provider: github
 branch: master
@@ -17,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/young1ll/practice-localsearch
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -26,4 +27,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/young1ll/practice-localsearch
   detection_source: Repo Metadata
